@@ -13,7 +13,7 @@ Puedes encontrarme en mis redes sociales:
 
 - [Instagram](https://www.instagram.com/ryulhu/)
 - [TikTok](https://www.tiktok.com/@ryulhu)
-- [Twitch] (https://www.twitch.tv/ryulhu )
+- [Twitch](https://www.twitch.tv/ryulhu )
 - [YouTube](https://www.youtube.com/@Ryulhu )
 - [LinkedIn](https://www.linkedin.com/in/isaac-giraldo/)
 - [Twitter](https://x.com/Ryulhu )
