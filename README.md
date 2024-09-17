@@ -1,4 +1,4 @@
-# cumpleanosdedicar
+# fireworks-editable-tex
 
 ¡Hola! Soy [Ryulhu] y estoy encantado de conocerte.
 
