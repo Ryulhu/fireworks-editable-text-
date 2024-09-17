@@ -1,6 +1,6 @@
 # fireworks-editable-tex
 
-¡Hola! Soy [Ryulhu] y estoy encantado de conocerte.
+¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
 
 🌱 Actualmente, estoy enfocado en seguir aprendiendo y mejorando mis habilidades.
