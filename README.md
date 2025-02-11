@@ -1,5 +1,7 @@
 # fireworks-editable-tex
 
+[![fireworks-editable.png](https://i.postimg.cc/qBcQQ7Wb/fireworks-editable.png)](https://postimg.cc/0rQpy9kD)
+
 ¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
 
